@@ -2,7 +2,7 @@
 
 $servername = 'localhost';
 $username = 'root';
-$password = '';
+$password = 'CodeAppMedia@9860';
 $dbname = 'codeappmediaar';
 
 $conn = mysqli_connect($servername, $username, $password, $dbname);
